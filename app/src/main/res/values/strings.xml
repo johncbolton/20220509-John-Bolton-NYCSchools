@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20220509-John-Bolton-NYCSchools</string>
+    <string name="show_details">Show Details</string>
+    <string name="school_error">Could not load schools</string>
+    <string name="score_error">School does not have SAT score</string>
+    <string name="score_math">Math | %s</string>
+    <string name="score_reading">Reading | %s</string>
+    <string name="score_writing">Writing | %s</string>
+</resources>
